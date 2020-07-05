@@ -60,8 +60,9 @@
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    }
+      "text": "Acepto contactar conmigo mediante email."
+    },
+    "google-analytics": "<script data-ad-client=\"ca-pub-8666991488514971\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>"
   },
   "pages": {
     "index.html": {
