@@ -50,10 +50,10 @@
     "favicon": false,
     "": "on",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
-    "noImageResize": false,
+    "siteUrl": "https://comandosoft.github.io/nitram/",
+    "noImageResize": true,
     "cookiesAlert": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": {
