@@ -1,20 +1,21 @@
+<input type="button" onclick="alert('¡¡Atención! YouTube posiblemente me elimine la cuenta... Atento a mi señal. Mandare aviso a los usuarios registrados en el foro -> www.comandosoft.activo.mx" />
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://github.xn--com/comandosoft/nitram-.git/index.html</loc>
+		<loc>https://comandosoft.github.xn--io/nitram-/index.html</loc>
 	</url>
 	<url>
-		<loc>https://github.xn--com/comandosoft/nitram-.git/menu.html</loc>
+		<loc>https://comandosoft.github.xn--io/nitram-/menu.html</loc>
 	</url>
 	<url>
-		<loc>https://github.xn--com/comandosoft/nitram-.git/zonahack.html</loc>
+		<loc>https://comandosoft.github.xn--io/nitram-/zonahack.html</loc>
 	</url>
 	<url>
-		<loc>https://github.xn--com/comandosoft/nitram-.git/zonawindows.html</loc>
+		<loc>https://comandosoft.github.xn--io/nitram-/zonawindows.html</loc>
 	</url>
 	<url>
-		<loc>https://github.xn--com/comandosoft/nitram-.git/zonainternet.html</loc>
+		<loc>https://comandosoft.github.xn--io/nitram-/zonainternet.html</loc>
 	</url>
 	<url>
-		<loc>https://github.xn--com/comandosoft/nitram-.git/contacto.html</loc>
+		<loc>https://comandosoft.github.xn--io/nitram-/contacto.html</loc>
 	</url>
 </urlset>
