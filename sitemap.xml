@@ -1,16 +1,12 @@
-
-  </html>
-    
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://comandosoft.github.xn--io/nitram-/index.html</loc>
-<head>
-      <title>Hola, mundo</title>
-    </head>
-    <body>
-         ¡Hola, mundo!
-    </body>
-
+<HEAD>
+<TITLE>ejemplo hola mundo</TITLE>
+</HEAD>
+<BODY>
+<P>Hola Mundo</P>
+</BODY>
 	</url>
 	<url>
 		<loc>https://comandosoft.github.xn--io/nitram-/menu.html</loc>
@@ -28,5 +24,3 @@
 		<loc>https://comandosoft.github.xn--io/nitram-/contacto.html</loc>
 	</url>
 </urlset>
-
-
