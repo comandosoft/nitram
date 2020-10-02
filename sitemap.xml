@@ -1,5 +1,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+<BODY>
+<body onLoad="alert('¡Hola! 
+He creado una nueva cuanta de YouTube donde empezare poco a poco a subir material. No volveré a usar la antigua cuenta
+');" onUnLoad="confirm('Gracias por tu visita, espero que vuelvas!);">
+</BODY>
 		<loc>https://comandosoft.github.xn--io/nitram-/index.html</loc>
 	</url>
 	<url>

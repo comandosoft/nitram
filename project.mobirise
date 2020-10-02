@@ -51,7 +51,7 @@
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": "https://comandosoft.github.io/nitram/",
     "noImageResize": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -61,7 +61,7 @@
       "underlineLink": false,
       "text": "Acepto contactar conmigo mediante email."
     },
-    "google-analytics": "<HEAD>\n<TITLE>ejemplo hola mundo</TITLE>\n</HEAD>\n<BODY>\n<body onLoad=\"alert('Bienvenido a mi web');\" onUnLoad=\"confirm('Gracias por tu visita, espero que vuelvas!);\">\n</BODY>",
+    "google-analytics": "",
     "cookiesAlert": false
   },
   "pages": {
