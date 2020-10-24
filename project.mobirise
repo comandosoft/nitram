@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "index.html",
+    "currentPage": "zonahack.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,9 +50,9 @@
     "favicon": false,
     "": "on",
     "robotsSwitcher": false,
-    "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": "https://comandosoft.github.io/nitram/",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
     "noImageResize": null,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "gdpr": {
@@ -63,7 +63,8 @@
     },
     "google-analytics": "",
     "cookiesAlert": false,
-    "imageResize": false
+    "imageResize": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
