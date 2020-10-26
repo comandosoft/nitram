@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "index.html",
+    "currentPage": "zonahack.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2204,7 +2204,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/c4q0lf7561b226b/WH_ApkCrypter_V2_master.rar/file\" class=\"text-primary\" target=\"_blank\">WH ApkCrypter V2 master</a>",
+                "caption": "<a href=\"http://www.mediafire.com/file/c4q0lf7561b226b/WH_ApkCrypter_V2_master.rar/file\" class=\"text-white\" target=\"_blank\">WH ApkCrypter V2 master</a>",
                 "active": false
               }
             ]
