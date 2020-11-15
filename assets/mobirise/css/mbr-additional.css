@@ -3053,38 +3053,6 @@ section.lazy-placeholder:after {
 .cid-seh2EgbWHV .mbr-gallery-item > div > span {
   color: #ffffff;
 }
-.cid-sgrPUKVu1S {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/matrix-1-1088x870.png");
-}
-.cid-sgrPUKVu1S .card {
-  border-radius: 0;
-}
-@media (min-width: 992px) {
-  .cid-sgrPUKVu1S .card {
-    border-right: 1px solid white;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sgrPUKVu1S .card {
-    border-right: 0px;
-    border-bottom: 1px solid white;
-  }
-}
-.cid-sgrPUKVu1S .wrapper {
-  padding: 30px 0;
-}
-.cid-sgrPUKVu1S .mbr-section-title {
-  color: #fafafa;
-}
-.cid-sgrPUKVu1S .mbr-text,
-.cid-sgrPUKVu1S .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-sgrPUKVu1S H3 {
-  color: #4db74c;
-}
 .cid-rGk7woZqE7 .navbar {
   padding: .5rem 0;
   background: #333333;
