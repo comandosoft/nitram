@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonawindows.html",
+    "currentPage": "zonahack.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2815,7 +2815,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Diccionario para ataques",
+                "caption": "<a href=\"https://www.mediafire.com/file/rxovjpeyjd9j8oy/Dicionario_NITRAM.rar/file\" class=\"text-white\" target=\"_blank\">Diccionario para ataques</a>",
                 "active": false
               },
               {
