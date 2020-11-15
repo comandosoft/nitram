@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonahack.html",
+    "currentPage": "zonainternet.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4688,7 +4688,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://es.malwarebytes.com/\" class=\"text-white\" target=\"_blank\">Malware Bytes (Eliminar spy ware)</a>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -4765,7 +4765,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Utorrent",
+                "caption": "<a href=\"https://www.utorrent.com/intl/es/desktop\" class=\"text-white\" target=\"_blank\">Utorrent</a>",
                 "active": false
               },
               {
@@ -4778,8 +4778,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<span style=\"font-size: 12.96px;\">Superantispyware</span>",
-                "active": false
+                "caption": "<a href=\"https://www.superantispyware.com/\" class=\"text-white\" target=\"_blank\">Superantispyware</a>",
+                "active": true
               }
             ]
           }
