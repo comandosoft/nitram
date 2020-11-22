@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonainternet.html",
+    "currentPage": "zonawindows.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4053,12 +4053,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/driver-easy.png",
+                "thumb": "@PROJECT_PATH@/assets/images/driver-easy-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/3t0lnn934rx0r27/Winrar.exe/file\" class=\"text-white\" target=\"_blank\">...................</a>",
+                "caption": "<a href=\"https://www.mediafire.com/file/xi6hbo00lwlimmp/Driver_Easy_Pro_5.6.15_%252B_Activador_Full.rar/file\" class=\"text-white\" target=\"_blank\">Driver Easy Pro 5.6.15</a>",
                 "active": false
               },
               {
