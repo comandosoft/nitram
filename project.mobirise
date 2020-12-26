@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonahack.html",
+    "currentPage": "zonawindows.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3851,7 +3851,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/3t0lnn934rx0r27/Winrar.exe/file\" class=\"text-white\" target=\"_blank\">Winrar (32 Bits)</a>",
+                "caption": "<a href=\"https://www.mediafire.com/file/em7aq6fslb1pe0s/winrar_6.0_%252832_Bits%2529.zip/file\" class=\"text-white text-primary\" target=\"_blank\">Winrar (32 Bits)</a>",
                 "active": false
               },
               {
@@ -3864,7 +3864,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/ce8h8he74oybmyo/WinRAR.v5.40_%252864bits%2529.zip/file\" class=\"text-white\" target=\"_blank\">Winrar (64 Bits)</a>",
+                "caption": "<a href=\"https://www.mediafire.com/file/ijjelyreommh2k4/winrar_6.0_%252864_Bits%2529.zip/file\" class=\"text-white text-primary\" target=\"_blank\">Winrar (64 Bits)</a>",
                 "active": false
               },
               {
