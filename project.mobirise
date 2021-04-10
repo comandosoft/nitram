@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonahack.html",
+    "currentPage": "zonawindows.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4462,12 +4462,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/workstation.png",
+                "thumb": "@PROJECT_PATH@/assets/images/workstation-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/ce8h8he74oybmyo/WinRAR.v5.40_%252864bits%2529.zip/file\" class=\"text-white\" target=\"_blank\">...................</a>",
+                "caption": "<a href=\"https://www.mediafire.com/file/w8wu8p3kw501jll/VMware_Workstation_Pro_v16.1.1.rar/file\" class=\"text-white text-primary\" target=\"_blank\">VMware Workstation Pro v16.1.1</a>",
                 "active": false
               },
               {
