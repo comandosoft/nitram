@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonawindows.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
     "uniqCompNum": 146,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/contacto-meta-1.png",
+    "favicon": false,
     "": "on",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -63,20 +63,9 @@
       "text": "Acepto contactar conmigo mediante email."
     },
     "google-analytics": "",
-    "cookiesAlert": {
-      "customDialogSelector": false,
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Agree"
-    },
     "imageResize": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
