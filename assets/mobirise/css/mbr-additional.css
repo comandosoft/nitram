@@ -4546,3 +4546,44 @@ section.lazy-placeholder:after {
   margin: 20px;
   color: #ffffff;
 }
+.cid-sU4hxV6zUh {
+  padding-top: 10rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/fondo-video-youtube.jpeg");
+}
+.cid-sU4hxV6zUh .mbr-overlay {
+  background: #232323;
+  opacity: 0.7;
+}
+.cid-sU4hxV6zUh img,
+.cid-sU4hxV6zUh .item-img {
+  width: 100%;
+}
+.cid-sU4hxV6zUh .item:focus,
+.cid-sU4hxV6zUh span:focus {
+  outline: none;
+}
+.cid-sU4hxV6zUh .item {
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.cid-sU4hxV6zUh .item-wrapper {
+  position: relative;
+  border-radius: 10px;
+  background: #232323;
+  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-sU4hxV6zUh .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-sU4hxV6zUh .mbr-section-title {
+  color: #4db74c;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.cid-sU4hxV6zUh .item-title {
+  margin: 20px;
+  color: #ffffff;
+}
