@@ -4522,6 +4522,9 @@ section.lazy-placeholder:after {
 .cid-sU3NAl7RsU img,
 .cid-sU3NAl7RsU .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-sU3NAl7RsU .item:focus,
 .cid-sU3NAl7RsU span:focus {
