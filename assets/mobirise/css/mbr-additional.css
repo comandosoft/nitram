@@ -1505,10 +1505,15 @@ section.lazy-placeholder:after {
   color: #4db74c;
 }
 .cid-sU3OPGXB3G {
-  background-image: url("../../../assets/images/fondo-video-youtube1-1000x66402.png");
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
 }
 .cid-sU3OPGXB3G H1 {
   color: #4db74c;
+}
+.cid-sU3OPGXB3G H3 {
+  color: #45e613;
 }
 .cid-rGnvHFD0LX {
   background-image: url("../../../assets/images/fondo-video-youtube1-1000x66402.png");
