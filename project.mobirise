@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "index.html",
+    "currentPage": "zonawindows.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4583,12 +4583,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/acronis-2021.png",
+                "thumb": "@PROJECT_PATH@/assets/images/acronis-2021-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/ta7w3cj4bvg8ut1/7-zip.rar/file\" class=\"text-white\" target=\"_blank\">....................</a>",
+                "caption": "<a href=\"https://mega.nz/file/FgtTgIRC#Yb67dVqLujJym3Ga71KGJI9m1ApPA-c3vfNW-fM8waM\" class=\"text-white text-primary\" target=\"_blank\">Acronis True Image 2020 v24.4</a>",
                 "active": false
               },
               {
