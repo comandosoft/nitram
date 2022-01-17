@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "menu.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "uniqCompNum": 168,
-    "versionPublish": "5.5.2",
+    "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": false,
     "": "on",
@@ -3946,7 +3946,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/04lynaDS#dDvL6FtHd7HqLh6vDhNuMeZw180k0bdgzF6WFkYDb1M\" class=\"text-white\" target=\"_blank\">Office 2019 64 Bits</a>",
+                "caption": "<a href=\"https://mega.nz/file/04lynaDS#dDvL6FtHd7HqLh6vDhNuMeZw180k0bdgzF6WFkYDb1M\" class=\"text-white\" target=\"_blank\">Office 2013-2021 C2R v7.3.7</a>",
                 "active": false
               },
               {
@@ -4147,7 +4147,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/1htQVAwT#MGJ3zgONVE4NtvHIP7uWac-UIh47BRRbEtzWnOJcIoI\" class=\"text-white\" target=\"_blank\">Adobe After Effects CC 2019&nbsp;</a><br>",
+                "caption": "<a href=\"https://mega.nz/file/d1dSzTRA#9ziw0qA179e6nkXnwf5OF-N3dvzWgzPztnPEdfv6Pkc\" class=\"text-white text-primary\" target=\"_blank\">Adobe After Effects CC 2021&nbsp;</a><br>",
                 "active": false
               },
               {
@@ -4199,7 +4199,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/h8UxSAJY#q3t_QIeZqenDpKvWChR2x0EMYJQnhUWYlmxIe8WQosQ\" class=\"text-white text-primary\" target=\"_blank\">Revo Unistaller Pro v4.1</a>",
+                "caption": "<a href=\"https://mega.nz/file/EkESAJ4Y#nfh8EZEifCf6_Mvk8MCjeNCNubrweJIIsCH9Wi_s2aI\" class=\"text-white text-primary\" target=\"_blank\">Revo Unistaller Pro v4.3</a>",
                 "active": false
               },
               {
@@ -4322,7 +4322,7 @@
                 "alt": "https://mega.nz/file/ht8k0JDC#LSm0AzLr0LnJSEl9D0G6FEyS5mdZoIqLwNCiWwXMuWs",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/F1102SSK#rK_MHSLILC6YjFZp6FP0AfY-J6kRVWH4PzbWQa59B_Y\" class=\"text-white\" target=\"_blank\">Mirillis Action! v4.12</a>",
+                "caption": "<a href=\"https://mega.nz/file/cpdQmDzB#KZrppkRMyEo_IbC6vpoNHZBENO_W7dVY-SKAkLojGTI\" class=\"text-white text-primary\" target=\"_blank\">Mirillis Action! v4.24</a>",
                 "active": true
               },
               {
