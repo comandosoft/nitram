@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonawindows.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,8 +45,8 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 168,
-    "versionPublish": "5.5.8",
+    "uniqCompNum": 167,
+    "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
     "favicon": false,
     "": "on",
@@ -66,11 +66,7 @@
     "imageResize": false,
     "publishChangesOnly": true,
     "cookiesAlert": false,
-    "mbrsiteDomain": "vtdjkzj05x",
-    "cssOptimize": false,
-    "lazyLoad": false,
-    "lazyType": "nothing",
-    "pwa-switcher": false
+    "chatbutton": {}
   },
   "pages": {
     "index.html": {
@@ -1061,7 +1057,7 @@
               "color": "#45e613"
             }
           },
-          "_customHTML": "<section class=\"team3\" group=\"Team\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <svg class=\"svg-top\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 1600 40\" style=\"enable-background:new 0 0 1600 40;\" preserveAspectRatio=\"none\">\n        <style type=\"text/css\">\n            .st0 {\n                fill: #1A449A;\n            }\n        </style>\n        <path class=\"st0\" d=\"M-1,15.7c200.1,0,200.7,13.8,400.9,13.8C600,29.5,600.4,9.3,800.5,9.3S998.8,36.8,1199,36.8\n\ts201.9-21.1,402-21.1v24.1L-1,40V15.7z\"></path>\n    </svg>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-12 col-lg-{{imageWidth}} image-wrapper m-auto\">\n                <img class=\"w-100 md-pb\" src=\"@PROJECT_PATH@/assets/images/mega-1.png\" alt=\"Mobirise\">\n            </div>\n            <div class=\"col-12 col-md-12 col-lg m-auto\">\n                <div class=\"text-wrapper align-left\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-4\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>VIDEO TUTORIALES PROHIBIDOS</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>En la siguiente sección de videos, encontrareis contenido que YouTube no me permite enseñar. He tenido numerosos avisos y dado que no permiten expresarme libremente no volveré a usar esa plataforma.<br><br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-lg btn-primary-outline\" href=\"videos.html\" data-app-placeholder=\"Type Text\">ENTRAR</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"team3\" group=\"Team\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <svg class=\"svg-top\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 1600 40\" style=\"enable-background:new 0 0 1600 40;\" preserveAspectRatio=\"none\">\n        <style type=\"text/css\">\n            .st0 {\n                fill: #1A449A;\n            }\n        </style>\n        <path class=\"st0\" d=\"M-1,15.7c200.1,0,200.7,13.8,400.9,13.8C600,29.5,600.4,9.3,800.5,9.3S998.8,36.8,1199,36.8\n\ts201.9-21.1,402-21.1v24.1L-1,40V15.7z\"></path>\n    </svg>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-12 col-lg-{{imageWidth}} image-wrapper m-auto\">\n                <img class=\"w-100 md-pb\" src=\"@PROJECT_PATH@/assets/images/mega-1.png\" alt=\"Mobirise\">\n            </div>\n            <div class=\"col-12 col-md-12 col-lg m-auto\">\n                <div class=\"text-wrapper align-left\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-4\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>VIDEO TUTORIALES PROHIBIDOS</b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\"><br>En la siguiente sección de videos, encontrareis contenido que YouTube no me permite enseñar. He tenido numerosos avisos y dado que no me permiten expresarme libremente no volveré a usar esa plataforma<br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-lg btn-primary-outline\" href=\"videos.html\" data-app-placeholder=\"Type Text\" target=\"_blank\">ENTRAR</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "team03-4m",
           "_isUserblock": true,
           "_cid": "sUiRz4hAxI",
@@ -1099,71 +1095,28 @@
           "_params": {}
         },
         {
-          "_name": "team03",
-          "_sourceTheme": "beveragem5",
+          "alias": false,
           "_styles": {
             "& when not (@fullScreen)": {
-              "padding-top": "(@paddingTop * 1rem)",
-              "padding-bottom": "(@paddingBottom * 1rem)"
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
             },
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)",
-              ".svg-top": {
-                "display": "none"
-              }
-            },
-            "& when (@reverseContent)": {
-              ".row": {
-                "flex-direction": "row-reverse"
-              }
-            },
-            ".svg-top": {
-              "width": "100%",
-              "position": "absolute",
-              "left": "0",
-              "top": "-48px",
-              "height": "50px",
-              "transform-origin": "bottom",
-              "animation": "1.5s ease-in-out infinite alternate svg-wave",
-              ".st0": {
-                "fill": "@bg-value"
-              },
-              "@media (max-width: 992px)": {
-                "width": "1000px"
-              },
-              "fill": "@primaryColor"
-            },
-            "@keyframes svg-wave": {
-              "from": {
-                "transform": "scaleX(1) scaleY(1.1)"
-              },
-              "to": {
-                "transform": "scaleX(1) scaleY(1.6)"
-              }
-            },
-            ".mbr-section-title": {
-              "color": "#4db74c",
-              "text-align": "left"
-            },
-            "@media (min-width: 1400px)": {
-              ".col-12": {
-                "padding": "0 2rem"
-              },
-              ".row": {
-                "margin": "0 -2rem"
-              }
-            },
-            ".mbr-text, .mbr-section-btn": {
-              "color": "#42ea0e"
+            "H1": {
+              "color": "#4db74c"
             }
           },
-          "_customHTML": "<section class=\"team3\" group=\"Team\" mbr-class=\"{'mbr-fullscreen': fullScreen}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"7\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"10\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline name=\"imageWidth\" title=\"Image\" min=\"4\" max=\"8\" step=\"1\" value=\"6\">\n        <input type=\"checkbox\" title=\"Reverse\" name=\"reverseContent\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Buttons\" name=\"showButtons\" checked>\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@PROJECT_PATH@/assets/images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#232323\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n    <svg class=\"svg-top\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 1600 40\" style=\"enable-background:new 0 0 1600 40;\" preserveAspectRatio=\"none\">\n        <style type=\"text/css\">\n            .st0 {\n                fill: #1A449A;\n            }\n        </style>\n        <path class=\"st0\" d=\"M-1,15.7c200.1,0,200.7,13.8,400.9,13.8C600,29.5,600.4,9.3,800.5,9.3S998.8,36.8,1199,36.8\n\ts201.9-21.1,402-21.1v24.1L-1,40V15.7z\"></path>\n    </svg>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-12 col-lg-{{imageWidth}} image-wrapper m-auto\">\n                <img class=\"w-100 md-pb\" src=\"@PROJECT_PATH@/assets/images/chat-1.png\" alt=\"Mobirise\">\n            </div>\n            <div class=\"col-12 col-md-12 col-lg m-auto\">\n                <div class=\"text-wrapper align-left\">\n                    <h1 class=\"mbr-section-title mbr-fonts-style mb-4\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\"><b>CHAT ONLINE</b><br><b><br></b></h1>\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Chat usado en el pasado para ataques. Actualmente no se suele usar salvo que se necesite<br><br></p>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn mt-3\" mbr-if=\"showButtons\"><a class=\"btn btn-lg btn-primary-outline\" href=\"https://comandosoft.activo.mx/chatbox\" data-app-placeholder=\"Type Text\" target=\"_blank\">ACCEDER</a></div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "team03-4n",
+          "_name": "header2",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/fondo-video-youtube1-1000x66402.png\" parallax selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">MENU PRINCIPAL<br><br></h1>\n                <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\"></h3>\n                <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                    Click any text to edit or style it. Select text to insert a link. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.\n                </p>\n                <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-danger-outline\" href=\"https://comandosoft.activo.mx/chatbox\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbrib-protect mbr-iconfont mbr-iconfont-btn\"></span>CHAT ONLINE</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_anchor": "header2-27",
           "_isUserblock": true,
-          "_cid": "sUk21vE3QJ",
+          "_sourceTheme": "mobirise4",
+          "_cid": "rGI55jASQY",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -3946,7 +3899,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/04lynaDS#dDvL6FtHd7HqLh6vDhNuMeZw180k0bdgzF6WFkYDb1M\" class=\"text-white\" target=\"_blank\">Office 2013-2021 C2R v7.3.7</a>",
+                "caption": "<a href=\"https://mega.nz/file/04lynaDS#dDvL6FtHd7HqLh6vDhNuMeZw180k0bdgzF6WFkYDb1M\" class=\"text-white\" target=\"_blank\">Office 2019 64 Bits</a>",
                 "active": false
               },
               {
@@ -4147,7 +4100,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/d1dSzTRA#9ziw0qA179e6nkXnwf5OF-N3dvzWgzPztnPEdfv6Pkc\" class=\"text-white text-primary\" target=\"_blank\">Adobe After Effects CC 2021&nbsp;</a><br>",
+                "caption": "<a href=\"https://mega.nz/file/1htQVAwT#MGJ3zgONVE4NtvHIP7uWac-UIh47BRRbEtzWnOJcIoI\" class=\"text-white\" target=\"_blank\">Adobe After Effects CC 2019&nbsp;</a><br>",
                 "active": false
               },
               {
@@ -4173,7 +4126,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.mediafire.com/file/sxc7e6y0u292cgx/Adobe_Premiere_Pro_2021_15.1.0.48.rar/file\" class=\"text-white text-primary\" target=\"_blank\">Adobe Premiere Pro 2021&nbsp;</a>",
+                "caption": "<a href=\"https://mega.nz/file/R5dX2CYS#MdCLKKXIFHp9yeetdIFGG6pNonOiUYBxut9ZF7PeJso\" class=\"text-white\" target=\"_blank\">Adobe Premier 2019 v13.4</a>",
                 "active": false
               },
               {
@@ -4199,7 +4152,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/EkESAJ4Y#nfh8EZEifCf6_Mvk8MCjeNCNubrweJIIsCH9Wi_s2aI\" class=\"text-white text-primary\" target=\"_blank\">Revo Unistaller Pro v4.3</a>",
+                "caption": "<a href=\"https://mega.nz/file/h8UxSAJY#q3t_QIeZqenDpKvWChR2x0EMYJQnhUWYlmxIe8WQosQ\" class=\"text-white text-primary\" target=\"_blank\">Revo Unistaller Pro v4.1</a>",
                 "active": false
               },
               {
@@ -4322,7 +4275,7 @@
                 "alt": "https://mega.nz/file/ht8k0JDC#LSm0AzLr0LnJSEl9D0G6FEyS5mdZoIqLwNCiWwXMuWs",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/cpdQmDzB#KZrppkRMyEo_IbC6vpoNHZBENO_W7dVY-SKAkLojGTI\" class=\"text-white text-primary\" target=\"_blank\">Mirillis Action! v4.24</a>",
+                "caption": "<a href=\"https://mega.nz/file/F1102SSK#rK_MHSLILC6YjFZp6FP0AfY-J6kRVWH4PzbWQa59B_Y\" class=\"text-white\" target=\"_blank\">Mirillis Action! v4.12</a>",
                 "active": true
               },
               {
@@ -4361,7 +4314,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://www.mediafire.com/file/hipw4kngu8pko6i/Freemake_Video_Converter_v4.1.11.30.rar/file\" class=\"text-white text-primary\" target=\"_blank\">Freemake Video Converter v4.1.11.30</a>",
+                "caption": "<a href=\"http://www.mediafire.com/file/4lg11wi17qee7ez/Freemake_Video_Converter_4.1.5.4.rar/file\" class=\"text-white\" target=\"_blank\">Freemake Video Converter 4.1.5.4</a>",
                 "active": false
               },
               {
@@ -4583,12 +4536,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/acronis-2021.png",
-                "thumb": "@PROJECT_PATH@/assets/images/acronis-2021-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/hddlow.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hddlow-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/FgtTgIRC#Yb67dVqLujJym3Ga71KGJI9m1ApPA-c3vfNW-fM8waM\" class=\"text-white text-primary\" target=\"_blank\">Acronis True Image 2020 v24.4</a>",
+                "caption": "<a href=\"https://www.mediafire.com/file/027d21nvhar5w7h/HDD_Low_Level_Format_Tool_4.40.rar/file\" class=\"text-white text-primary\" target=\"_blank\">HDD Low Level Format Tool 4.40</a>",
                 "active": false
               },
               {
@@ -4596,12 +4549,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/victoria.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/victoria-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/of53hrnomeum60c/Everest_v.4.5.rar/file\" class=\"text-white\" target=\"_blank\">....................</a>",
+                "caption": "<a href=\"https://hdd.by/victoria/\" class=\"text-white text-primary\" target=\"_blank\">Victoria HDD/SSD</a>",
                 "active": false
               },
               {
@@ -4609,12 +4562,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/acronis-2021.png",
+                "thumb": "@PROJECT_PATH@/assets/images/acronis-2021-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/76iax4aqxdmpty2/Loquendo_%2528Voz%2529.rar/file\" class=\"text-white\" target=\"_blank\">....................</a>",
+                "caption": "<a href=\"https://mega.nz/file/FgtTgIRC#Yb67dVqLujJym3Ga71KGJI9m1ApPA-c3vfNW-fM8waM\" class=\"text-white text-primary\" target=\"_blank\">Acronis True Image 2020 v24.4</a>",
                 "active": false
               }
             ]

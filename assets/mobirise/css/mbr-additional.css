@@ -1557,52 +1557,11 @@ section.lazy-placeholder:after {
 .cid-rGnvHFD0LX H1 {
   color: #4db74c;
 }
-.cid-sUk21vE3QJ {
-  padding-top: 7rem;
-  padding-bottom: 10rem;
-  background-color: #232323;
+.cid-rGI55jASQY {
+  background-image: url("../../../assets/images/fondo-video-youtube1-1000x66402.png");
 }
-.cid-sUk21vE3QJ .svg-top {
-  width: 100%;
-  position: absolute;
-  left: 0;
-  top: -48px;
-  height: 50px;
-  transform-origin: bottom;
-  animation: 1.5s ease-in-out infinite alternate svg-wave;
-  fill: #42ea0e;
-}
-.cid-sUk21vE3QJ .svg-top .st0 {
-  fill: #232323;
-}
-@media (max-width: 992px) {
-  .cid-sUk21vE3QJ .svg-top {
-    width: 1000px;
-  }
-}
-@keyframes svg-wave {
-  from {
-    transform: scaleX(1) scaleY(1.1);
-  }
-  to {
-    transform: scaleX(1) scaleY(1.6);
-  }
-}
-.cid-sUk21vE3QJ .mbr-section-title {
+.cid-rGI55jASQY H1 {
   color: #4db74c;
-  text-align: left;
-}
-@media (min-width: 1400px) {
-  .cid-sUk21vE3QJ .col-12 {
-    padding: 0 2rem;
-  }
-  .cid-sUk21vE3QJ .row {
-    margin: 0 -2rem;
-  }
-}
-.cid-sUk21vE3QJ .mbr-text,
-.cid-sUk21vE3QJ .mbr-section-btn {
-  color: #42ea0e;
 }
 .cid-rGk7aOQFGG .navbar {
   padding: .5rem 0;
