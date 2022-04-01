@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "index.html",
+    "currentPage": "zonahack.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -64,7 +64,7 @@
     },
     "google-analytics": "",
     "imageResize": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false,
     "chatbutton": {}
   },
@@ -3228,12 +3228,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1-6.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-6-800x445.png",
+                "image": "@PROJECT_PATH@/assets/images/virus.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/virus-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.mediafire.com/file/1t3ch3nl2jhlkpu/Poison_Ivy_2.3.2.rar/file\" class=\"text-white\" target=\"_blank\">.</a>...................",
+                "caption": "<a href=\"https://www.mediafire.com/file/0obix65fkkfbyfn/Virus_PACK.rar/file\" class=\"text-white\" target=\"_blank\">Virus Pack ¡PRECAUCION!</a>",
                 "active": false
               },
               {
