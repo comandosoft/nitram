@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonahack.html",
+    "currentPage": "menu.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1043,7 +1043,7 @@
             },
             ".mbr-section-title": {
               "color": "#4db74c",
-              "text-align": "left"
+              "text-align": "center"
             },
             "@media (min-width: 1400px)": {
               ".col-12": {
