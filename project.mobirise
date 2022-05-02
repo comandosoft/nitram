@@ -48,7 +48,7 @@
     "uniqCompNum": 173,
     "versionPublish": "5.6.0",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/logo-nitram1_1.png",
     "": "on",
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -66,7 +66,10 @@
     "imageResize": false,
     "publishChangesOnly": true,
     "cookiesAlert": false,
-    "chatbutton": {}
+    "chatbutton": {},
+    "mbrsiteDomain": "xryo4yxltb",
+    "cssOptimize": false,
+    "lazyLoad": false
   },
   "pages": {
     "index.html": {
