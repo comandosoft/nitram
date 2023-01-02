@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "comandosoft",
-    "currentPage": "zonahack.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
       }
     ],
     "uniqCompNum": 167,
-    "versionPublish": "5.6.13",
+    "versionPublish": "5.7.4",
     "screenshot": "screenshot.png",
     "favicon": false,
     "": "on",
@@ -67,7 +67,7 @@
     "publishChangesOnly": true,
     "cookiesAlert": false,
     "chatbutton": {},
-    "mbrsiteDomain": "ffqdc31vin",
+    "mbrsiteDomain": "w6mt88sajk",
     "cssOptimize": false,
     "lazyLoad": false
   },
@@ -4280,7 +4280,7 @@
                 "alt": "https://mega.nz/file/ht8k0JDC#LSm0AzLr0LnJSEl9D0G6FEyS5mdZoIqLwNCiWwXMuWs",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://mega.nz/file/F1102SSK#rK_MHSLILC6YjFZp6FP0AfY-J6kRVWH4PzbWQa59B_Y\" class=\"text-white\" target=\"_blank\">Mirillis Action! v4.12</a>",
+                "caption": "<a href=\"https://www.mediafire.com/file/4ij3n7w55qfojjp/Mirillis.Action%2521_v4.30.1.rar/file\" class=\"text-white text-primary\" target=\"_blank\">Mirillis Action! v4.30.1</a>",
                 "active": true
               },
               {
