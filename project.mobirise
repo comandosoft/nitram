@@ -46,7 +46,7 @@
       }
     ],
     "uniqCompNum": 168,
-    "versionPublish": "5.7.4",
+    "versionPublish": "5.8.4",
     "screenshot": "screenshot.png",
     "favicon": false,
     "": "on",
@@ -67,9 +67,11 @@
     "publishChangesOnly": true,
     "cookiesAlert": false,
     "chatbutton": {},
-    "mbrsiteDomain": "w6mt88sajk",
+    "mbrsiteDomain": "i13ta0st4x",
     "cssOptimize": false,
-    "lazyLoad": false
+    "lazyLoad": false,
+    "pwa-switcher": false,
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
@@ -4687,12 +4689,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1-2.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-2-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/captura-de-pantalla-19.png",
+                "thumb": "@PROJECT_PATH@/assets/images/captura-de-pantalla-19-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "....................................",
+                "caption": "<a href=\"https://www.mediafire.com/file/ar1vb7s3k2cwk7l/AOMEI_Backupper_Technician_Plus_v_7.2_WinPE_x64.rar/file\" class=\"text-white\" target=\"_blank\">AOMEI Backupper Technician Plus v 7.2 WinPE x64</a>",
                 "active": false
               },
               {
@@ -4700,12 +4702,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1-4.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-4-800x452.png",
+                "image": "@PROJECT_PATH@/assets/images/captura-de-pantalla-20.png",
+                "thumb": "@PROJECT_PATH@/assets/images/captura-de-pantalla-20-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": ".................................",
+                "caption": "<a href=\"https://www.mediafire.com/file/syunuo4o6dt6dxn/Ventoy_1.0.91.rar/file\" class=\"text-white\" target=\"_blank\">Ventoy 1.0.91</a>",
                 "active": false
               },
               {
