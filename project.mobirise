@@ -46,7 +46,7 @@
       }
     ],
     "uniqCompNum": 168,
-    "versionPublish": "5.8.4",
+    "versionPublish": "5.8.14",
     "screenshot": "screenshot.png",
     "favicon": false,
     "": "on",
@@ -4715,12 +4715,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/matrix-pendiente1-2.png",
-                "thumb": "@PROJECT_PATH@/assets/images/matrix-pendiente1-2-800x450.png",
+                "image": "@PROJECT_PATH@/assets/images/after-effects1-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/after-effects1-1-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "...........................",
+                "caption": "<a href=\"https://www.mediafire.com/file/ntablklho1jygw9/Adobe_After_Effects_2023.rar/file\" class=\"text-white\" target=\"_blank\">Adobe After Effects CC 2023</a>",
                 "active": false
               },
               {
